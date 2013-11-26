@@ -1,1 +1,1 @@
-This is a boilerplate!
+This is a minimal boilerplate for web projects
