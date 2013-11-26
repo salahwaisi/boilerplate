@@ -8,6 +8,10 @@
 	margin: 15px;
 }
 
+.bxs {
+    @include box-sizing(border-box);
+}
+
 .cb {
 	clear: both;
 }
@@ -18,8 +22,4 @@
 
 .fltr {
 	float: right;
-}
-
-.bxs {
-	@include box-sizing(border-box);
 }
