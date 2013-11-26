@@ -1,0 +1,25 @@
+@import "compass/reset";
+@import "compass/css3";
+
+.browsehappy {
+	width: 100%;
+	text-align: center;
+	font-size: 18px;
+	margin: 15px;
+}
+
+.cb {
+	clear: both;
+}
+
+.fltl {
+	float: left;
+}
+
+.fltr {
+	float: right;
+}
+
+.bxs {
+	@include box-sizing(border-box);
+}
